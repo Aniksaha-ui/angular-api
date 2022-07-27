@@ -1,0 +1,10 @@
+.example-spacer{
+  flex: 1 1 auto;
+}
+.border-20{
+  border-radius: 20px;
+}
+.container{
+ max-width: 1200px;
+  margin: 0 auto;
+}
